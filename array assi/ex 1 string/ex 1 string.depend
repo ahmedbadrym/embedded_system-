@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1675343993 source:d:\embedded system\array assi\ex 1 string\main.c
+	<stdio.h>
+	<stdlib.h>
+

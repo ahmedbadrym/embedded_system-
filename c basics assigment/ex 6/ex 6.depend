@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666357980 source:d:\embedded system\c basics assigment\ex 6\main.c
+	<stdio.h>
+	<stdlib.h>
+
