@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676472544 source:d:\embedded system\midterm\q6\main.c
+	<stdio.h>
+	<stdlib.h>
+
