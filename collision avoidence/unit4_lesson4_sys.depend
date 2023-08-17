@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1692282738 source:d:\embedded system\projects\codeblocks\unit4_lesson4_sys\main.c
+	"CA.h"
+	"us_sensor.h"
+	"dc_motor.h"
+
+1692282396 d:\embedded system\projects\codeblocks\unit4_lesson4_sys\ca.h
+	"state.h"
+
+1692282394 d:\embedded system\projects\codeblocks\unit4_lesson4_sys\state.h
+	<stdio.h>
+	<stdlib.h>
+
+1692282398 source:d:\embedded system\projects\codeblocks\unit4_lesson4_sys\ca.c
+	"CA.h"
+
+1692282392 source:d:\embedded system\projects\codeblocks\unit4_lesson4_sys\dc_motor.c
+	"dc_motor.h"
+
+1692282389 d:\embedded system\projects\codeblocks\unit4_lesson4_sys\dc_motor.h
+	"state.h"
+
+1692282580 source:d:\embedded system\projects\codeblocks\unit4_lesson4_sys\us_sensor.c
+	"us_sensor.h"
+	<stdlib.h>
+
+1692282740 d:\embedded system\projects\codeblocks\unit4_lesson4_sys\us_sensor.h
+	"state.h"
+
